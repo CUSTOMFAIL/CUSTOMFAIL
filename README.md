@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **Python, Java, SQL**
 
 - 📫 How to reach me **vaibhavshresth13@gmail.com**
-- ⚡ Fun fact **I got a dark humor**
 
 <div> <a href="https://github.com/CUSTOMFAIL" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/vaibhavshresth13" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
